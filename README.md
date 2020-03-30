@@ -17,6 +17,17 @@ On Android versions prior to Android 6.0, SportsScore requires the following per
 •	Internet.<br/>
 •	Access Network State.<br/>
 
+<h2>Libraries</h2>
+{<br/>
+implementation 'com.google.android.material:material:1.0.0'<br/>
+implementation group: 'commons-io', name: 'commons-io', version: '20030203.000550'<br/>
+implementation 'com.squareup.picasso:picasso:2.71828'<br/>
+implementation 'com.android.support:recyclerview-v7:29.0.0'<br/>
+implementation 'androidx.cardview:cardview:1.0.0'<br/>
+}
+
+
+
 <h2>Credits</h2>
 Thanks to ReachMobi for giving me the opportunity to develop this app using thesportsdb API-https://www.thesportsdb.com/api.php<br/>
 
