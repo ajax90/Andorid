@@ -12,17 +12,17 @@ The android app lets you:<br/>
 •	View details of respective team.<br/>
 •	Redirect to the webpage of the team.<br/>
 
-<h1>Permissions</h1>
+<h2>Permissions</h2>
 On Android versions prior to Android 6.0, SportsScore requires the following permissions:<br/>
 •	Internet.<br/>
 •	Access Network State.<br/>
 
-<h1>Credits</h1>
+<h2>Credits</h2>
 Thanks to ReachMobi for giving me the opportunity to develop this app using thesportsdb API-https://www.thesportsdb.com/api.php<br/>
 
-<h1>Experience</h1>
+<h2>Experience</h2>
 Working on a idea from scratch from design to implementation of the application and freedom the design the app was really great experience. Also working on a limited time due to the MidTerm Examinations let me with little time although I am happy about how the app turned out.<br/>
 
-<h1>Challenges</h1>
+<h2>Challenges</h2>
 At start while designing the application I sough forward to list the scores or each sport but later I realized that the score boards for each sport are different and I could not use the same card for each sport. Due to time constraint and Examinations, I went ahead with only one sport i.e. Soccer, while clicking on any other sport it will give a Toast message to user asking him/her to redirect to Soccer.<br/>
 
