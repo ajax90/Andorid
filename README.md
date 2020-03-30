@@ -4,7 +4,11 @@ This application is made for you to comfortably read and archive your Favorite s
 
 <h1>Features</h1>
 The android app lets you:
-* Item 1 View the scores of your favorite sport.
-* Item 2 View the leagues from the selected sport.
-* Item 3 View the match scores from the league.
-* Item 4 •	Mark a Team as Favorite/Unfavorite.
+•	View the scores of your favorite sport.
+•	View the leagues from the selected sport.
+•	View the match scores from the league.
+•	View the Teams from the league.
+•	Mark a Team as Favorite/Unfavorite.
+•	View details of respective team.
+•	Redirect to the webpage of the team.
+
