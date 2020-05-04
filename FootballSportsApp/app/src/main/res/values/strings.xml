@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Favorite Sports App</string>
+    <string name="buttonGames">Games</string>
+    <string name="buttonTeams">Teams</string>
+    <string name="buttonFavorites">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textViewSportsItem" />
+    <string name="buttonUpcomming">Upcomming</string>
+    <string name="buttonPrevious">Previous</string>
+    <string name="editTextSearchGamesFragment">Search</string>
+
+    <string name="editTextSearchTeamsFragment">Search</string>
+    <string name="buttonGamesTeams">Games</string>
+    <string name="buttonTeamsTeams">Teams</string>
+
+    <string name="textViewTeamsFavoritesHard">My Favorites</string>
+    <string name="buttonGamesFavorites">Games</string>
+    <string name="buttonTeamsFavorites">Teams</string>
+    <string name="buttonFavoritesFavorites">Favorites</string>
+    <string name="textViewHomeHardScoreCard">HOME</string>
+    <string name="textViewAwayHardScoreCard">AWAY</string>
+    <string name="textViewDateScoreCard" />
+    <string name="textViewTimeScoreCard" />
+    <string name="textViewHomeTeamNameScoreCard" />
+    <string name="textViewAwayTeamNameScoreCard" />
+    <string name="textViewPosponedScoreCard" >Postponed</string>
+    <string name="textViewVSScoreCard">VS</string>
+    <string name="textViewHomeTeamScoreScoreCard" />
+    <string name="textViewAwayTeamScoreScoreCard" />
+    <string name="buttonFavorite">Favorites</string>
+    <string name="textViewTeamNameTeamInfo" />
+    <string name="textViewFoundersDate" />
+    <string name="textViewOverviewHardText">Overview</string>
+    <string name="textViewOverviewDescription" />
+    <string name="textViewStadiumTeamInfo" />
+    <string name="textViewDateScoreBoard" />
+    <string name="textViewVSHardScoreBoard">VS</string>
+    <string name="textViewHomeTeamNameScoreBoard" />
+    <string name="textViewAwayTeamNameScoreBoard" />
+    <string name="textViewHomeTeamScoreScoreBoard" />
+    <string name="textViewAwayTeamScoreScoreBoard" />
+    <string name="textViewGoalsHardScoreBoard">GOALS</string>
+    <string name="textViewShotsScoreBoard">SHOTS</string>
+    <string name="textViewYellowCardScoreBoard">YELLOW CARD</string>
+    <string name="textViewRedCardScoreBoard">RED CARD</string>
+    <string name="textViewGoalkeeperScoreBoard">GOALKEEPER</string>
+    <string name="textViewDefenseScoreBoard">DEFENSE</string>
+    <string name="textViewMidFieldScoreBoard">MID FIELD</string>
+    <string name="textViewForwardScoreBoard">FORWARD</string>
+    <string name="textViewSubstitutesScoreBoard">SUBSTITUTES</string>
+    <string name="textViewGoalsHomeScoreBoard" />
+    <string name="textViewGoalsAwayScoreBoard" />
+    <string name="textViewShotsHomeScoreBoard" />
+    <string name="textViewShotsAwayScoreBoard" />
+    <string name="textViewYellowCardHomeScoreBoard" />
+    <string name="textViewYellowCardAwayScoreBoard" />
+    <string name="textViewGoalKeeperHomeTeamScoreBoard" />
+    <string name="textViewGoalKeepetAwayTeamScoreBoard" />
+    <string name="textViewDefenseHomeTeamScoreBoard" />
+    <string name="textViewDefenseAwayTeamScoreBoard" />
+    <string name="textViewMidFieldHomeTeamScoreBoard" />
+    <string name="textViewMidFieldAwayTeamScoreBoard" />
+    <string name="textViewForwardHomeTeamScoreBoard" />
+    <string name="textViewForwardAwayTeamScoreBoard" />
+    <string name="textViewSubstitutesHomeTeamScoreBoard" />
+    <string name="textViewSubstituteAwayTeamScoreBoard" />
+    <string name="textViewStadiumNameScoreBoard" />
+    <string name="textViewLeagueNameScoreBoard" />
+    <string name="textViewRedCardHomeScoreBoard" />
+    <string name="textViewRedCardAwayScoreBoard" />
+    <string name="todo">TODO</string>
+    <string name="buttonUnFavoriteFavoriteCard">Unfavorite</string>
+</resources>
